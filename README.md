@@ -51,7 +51,7 @@ Counting, division, loops, conditional logic.
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 - Improved problem-solving skills
 - Better understanding of arrays and loops
 - Hands-on practice with HackerRank-style problems
