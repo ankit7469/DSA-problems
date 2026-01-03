@@ -59,7 +59,7 @@ Counting, division, loops, conditional logic.
 
 ---
 
-## 🚀 Status
+##  Status
 ✅ Completed basic array and logic problems  
 📈 Continuing DSA practice
 
