@@ -45,7 +45,7 @@ Counting, division, loops, conditional logic.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python 3
 - Core Python (no external libraries)
 
