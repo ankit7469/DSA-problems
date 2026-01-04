@@ -1,5 +1,5 @@
 # DSA & Problem Solving Practice (Python)
-
+-------------------------------------------------------
 This repository contains basic Data Structures and Problem Solving questions
 implemented in Python.  
 The focus is on understanding logic, loops, conditions, and array operations.
@@ -44,7 +44,10 @@ Loops, accumulation, integers.
 Counting, division, loops, conditional logic.
 
 ---
-## 5 Inverse Pattern
+2. Problem_solution
+-----------------------------------------------------------
+ 
+## 1️⃣ Inverse Pattern
 
 **Description:**  
 Prints an inverted right-angle star pattern where the number of stars decreases
@@ -54,6 +57,17 @@ with each row.
 Loops, pattern logic.
 
 ---
+ ## 2️⃣ Pyramid Pattern
+
+**Description:**  
+Prints a centered pyramid pattern using stars, where the number of stars increases
+odd-wise in each row.
+
+**Concepts Used:**  
+Nested loops, spacing logic, arithmetic patterns.
+
+---
+
 
 ##  Technologies Used
 - Python 3
