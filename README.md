@@ -68,6 +68,26 @@ Nested loops, spacing logic, arithmetic patterns.
 
 ---
 
+## 3️⃣ Binary Centered Pattern
+
+**Description:**  
+Prints a centered pyramid pattern of alternating `0` and `1`.  
+The starting value of each row depends on the row number.
+
+**Concepts Used:**  
+Nested loops, modulo operation, pattern observation.
+
+---
+
+## 4️⃣ Mini-Max Sum
+
+**Description:**  
+Given an array of five integers, calculates the minimum and maximum sum obtained
+by summing exactly four of the five elements.
+
+**Concepts Used:**  
+Arrays, loops, total sum, min/max logic.
+
 
 ##  Technologies Used
 - Python 3
