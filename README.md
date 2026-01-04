@@ -44,6 +44,16 @@ Loops, accumulation, integers.
 Counting, division, loops, conditional logic.
 
 ---
+## 5 Inverse Pattern
+
+**Description:**  
+Prints an inverted right-angle star pattern where the number of stars decreases
+with each row.
+
+**Concepts Used:**  
+Loops, pattern logic.
+
+---
 
 ##  Technologies Used
 - Python 3
