@@ -88,6 +88,17 @@ by summing exactly four of the five elements.
 **Concepts Used:**  
 Arrays, loops, total sum, min/max logic.
 
+---
+
+## 5️⃣ Birthday Cake Candles
+
+**Description:**  
+Finds the tallest candle height in an array and counts how many times it appears.
+
+**Concepts Used:**  
+Maximum value, counting frequency, array traversal.
+
+---
 
 ##  Technologies Used
 - Python 3
