@@ -45,7 +45,7 @@ Counting, division, loops, conditional logic.
 
 ---
 2. Problem_solution
------------------------------------------------------------
+----------------------------------------------------------
  
 ## 1️⃣  Pyramid Pattern
 
