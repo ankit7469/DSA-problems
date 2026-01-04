@@ -47,17 +47,7 @@ Counting, division, loops, conditional logic.
 2. Problem_solution
 -----------------------------------------------------------
  
-## 1️⃣ Inverse Pattern
-
-**Description:**  
-Prints an inverted right-angle star pattern where the number of stars decreases
-with each row.
-
-**Concepts Used:**  
-Loops, pattern logic.
-
----
- ## 2️⃣ Pyramid Pattern
+## 1️⃣  Pyramid Pattern
 
 **Description:**  
 Prints a centered pyramid pattern using stars, where the number of stars increases
@@ -67,6 +57,17 @@ odd-wise in each row.
 Nested loops, spacing logic, arithmetic patterns.
 
 ---
+ ## 2️⃣ Inverse Pattern
+
+**Description:**  
+Prints an inverted right-angle star pattern where the number of stars decreases
+with each row.
+
+**Concepts Used:**  
+Loops, pattern logic.
+
+---
+
 
 ## 3️⃣ Binary Centered Pattern
 
