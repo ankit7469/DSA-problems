@@ -104,6 +104,21 @@ Maximum value, counting frequency, array traversal.
 ### 3.Probem_Solution
 -----------------------------------------------------------------------
 
+1️⃣ Time Conversion
+
+Concept: Convert time from 12-hour AM/PM format to 24-hour format.
+
+Main Topics:
+
+String manipulation
+
+Conditional statements
+
+Slicing techniques
+
+Edge case handling (12 AM / 12 PM)
+
+
 ##  Technologies Used
 - Python 3
 - Core Python (no external libraries)
