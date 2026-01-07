@@ -99,7 +99,7 @@ Finds the tallest candle height in an array and counts how many times it appears
 **Concepts Used:**  
 Maximum value, counting frequency, array traversal.
 
----
+-----------------------------------------------------------------------
 
 ##  Technologies Used
 - Python 3
