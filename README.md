@@ -110,27 +110,14 @@ Concept: Convert time from 12-hour AM/PM format to 24-hour format.
 
 Main Topics:
 
-String manipulation
-
-Conditional statements
-
-Slicing techniques
-
-Edge case handling (12 AM / 12 PM)
+String manipulation, Conditional statements, Slicing techniques ,Edge case handling (12 AM / 12 PM)
 
 ## 2️⃣ Grading Students
 
 Concept: Apply rounding rules to student grades based on given conditions.
 
-Main Topics:
-
-Integer division
-
-Mathematical rounding logic
-
-Conditional checks
-
-Looping over multiple inputs
+Main Topics: 
+Integer division, Mathematical rounding logic, Conditional checks ,Looping over multiple inputs
 
 ## 3️⃣ Apple and Orange
 
@@ -138,15 +125,7 @@ Concept: Count how many fruits fall within a given range on a number line.
 
 Main Topics:
 
-Arrays / Lists
-
-Loop traversal
-
-Coordinate line logic
-
-Range validation
-
-Separate counting logic
+Arrays / Lists, Loop traversal, Coordinate line logic, Range validation, Separate counting logic
 
 ##  Technologies Used
 - Python 3
@@ -160,7 +139,6 @@ Separate counting logic
 - Improve logical thinking
 - Practice competitive programming
 - Maintain daily GitHub activity
-- 
 ---
 
 ##  Learning Outcome
