@@ -104,7 +104,7 @@ Maximum value, counting frequency, array traversal.
 ### 3.Probem_Solution
 -----------------------------------------------------------------------
 
-1️⃣ Time Conversion
+## 1️⃣ Time Conversion
 
 Concept: Convert time from 12-hour AM/PM format to 24-hour format.
 
@@ -117,6 +117,20 @@ Conditional statements
 Slicing techniques
 
 Edge case handling (12 AM / 12 PM)
+
+## 2️⃣ Grading Students
+
+Concept: Apply rounding rules to student grades based on given conditions.
+
+Main Topics:
+
+Integer division
+
+Mathematical rounding logic
+
+Conditional checks
+
+Looping over multiple inputs
 
 
 ##  Technologies Used
