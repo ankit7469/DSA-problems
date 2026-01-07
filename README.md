@@ -132,11 +132,35 @@ Conditional checks
 
 Looping over multiple inputs
 
+## 3️⃣ Apple and Orange
+
+Concept: Count how many fruits fall within a given range on a number line.
+
+Main Topics:
+
+Arrays / Lists
+
+Loop traversal
+
+Coordinate line logic
+
+Range validation
+
+Separate counting logic
 
 ##  Technologies Used
 - Python 3
 - Core Python (no external libraries)
 
+---
+
+##  Purpose
+
+- Strengthen DSA basics
+- Improve logical thinking
+- Practice competitive programming
+- Maintain daily GitHub activity
+- 
 ---
 
 ##  Learning Outcome
