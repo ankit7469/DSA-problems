@@ -6,7 +6,7 @@ The focus is on understanding logic, loops, conditions, and array operations.
 
 ---
 
-## 📌 Problems Covered
+## 📌1. Problems Covered
 
 ### 1️⃣ Compare the Triplets
 - Compared two arrays element-wise.
@@ -99,6 +99,9 @@ Finds the tallest candle height in an array and counts how many times it appears
 **Concepts Used:**  
 Maximum value, counting frequency, array traversal.
 
+-----------------------------------------------------------------------
+
+### 3.Probem_Solution
 -----------------------------------------------------------------------
 
 ##  Technologies Used
