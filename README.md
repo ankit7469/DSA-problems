@@ -130,6 +130,50 @@ Arrays / Lists, Loop traversal, Coordinate line logic, Range validation, Separat
 -----------------------------------------------------------------------------------------------
  ###  4. Problem Solution
 -----------------------------------------------------------------------------------------------
+Kangaroo – Number Line Jump 
+
+This problem focuses on determining whether two kangaroos, starting at different positions on a number line and jumping at fixed rates, can land on the same position after the same number of jumps.
+
+📌 Problem Description
+
+Two kangaroos start at positions x1 and x2 on a number line.
+Each kangaroo jumps forward with a constant speed v1 and v2 respectively.
+Both kangaroos jump at the same time and move only in the positive direction.
+
+The task is to decide whether there exists a point in time when both kangaroos land on the same position simultaneously.
+
+Return:
+
+YES → if they can meet
+
+NO → if they never meet
+
+# Core Concepts Used
+
+Number line movement
+
+Relative speed comparison
+
+Difference between starting positions
+
+Mathematical divisibility logic
+
+Modulus (%) operator
+
+Conditional decision making
+
+Time-step synchronization (same number of jumps)
+
+# Key Insight
+
+Both kangaroos always make the same number of jumps
+
+A meeting is possible only if:
+
+The kangaroo starting behind is faster
+
+The initial distance between them can be closed exactly after some number of jumps
+---------------------------------------------------------------------------------------
 
 ##  Technologies Used
 - Python 3
