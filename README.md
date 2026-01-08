@@ -127,6 +127,8 @@ Main Topics:
 
 Arrays / Lists, Loop traversal, Coordinate line logic, Range validation, Separate counting logic
 
+-----------------------------------------------------------------------------------------------
+
 ##  Technologies Used
 - Python 3
 - Core Python (no external libraries)
