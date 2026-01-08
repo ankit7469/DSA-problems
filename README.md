@@ -128,6 +128,8 @@ Main Topics:
 Arrays / Lists, Loop traversal, Coordinate line logic, Range validation, Separate counting logic
 
 -----------------------------------------------------------------------------------------------
+ ###  4. Problem Solution
+-----------------------------------------------------------------------------------------------
 
 ##  Technologies Used
 - Python 3
