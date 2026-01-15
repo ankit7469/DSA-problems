@@ -223,7 +223,7 @@ Multiples of all elements in the first array
 Factors of all elements in the second array
 
 Only numbers that satisfy both conditions simultaneously are counted.
-
+------------------------------------------------------------------------------
 
 🛠️ Technologies Used
 
@@ -232,6 +232,7 @@ Python 3
 Basic mathematics
 
 Data Structures & Algorithms fundamentals
+
 ##  Technologies Used
 - Python 3
 - Core Python (no external libraries)
