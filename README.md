@@ -173,8 +173,10 @@ A meeting is possible only if:
 The kangaroo starting behind is faster
 
 The initial distance between them can be closed exactly after some number of jumps
----------------------------------------------------------------------------------------
 
+---------------------------------------------------------------------------------------
+# 5. Problem_solution 
+---------------------------------------------------------------------------------------
 ##  Technologies Used
 - Python 3
 - Core Python (no external libraries)
