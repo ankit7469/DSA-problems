@@ -130,7 +130,7 @@ Arrays / Lists, Loop traversal, Coordinate line logic, Range validation, Separat
 -----------------------------------------------------------------------------------------------
  ###  4. Problem Solution
 -----------------------------------------------------------------------------------------------
-Kangaroo – Number Line Jump 
+   1. Kangaroo – Number Line Jump 
 
 This problem focuses on determining whether two kangaroos, starting at different positions on a number line and jumping at fixed rates, can land on the same position after the same number of jumps.
 
@@ -177,6 +177,61 @@ The initial distance between them can be closed exactly after some number of jum
 ---------------------------------------------------------------------------------------
 # 5. Problem_solution 
 ---------------------------------------------------------------------------------------
+
+🔢 Between Two Sets (HackerRank)
+
+This problem focuses on finding integers that satisfy specific divisibility conditions between two given sets of numbers.
+
+📌 Problem Description
+
+Two arrays of integers are given:
+
+A first array (A)
+
+A second array (B)
+
+An integer is considered between the two sets if it satisfies both conditions:
+
+Every element of the first array is a factor of the integer.
+
+The integer is a factor of every element of the second array.
+
+The task is to determine how many such integers exist.
+
+🧠 Core Concepts Involved
+
+Factors and multiples
+
+Divisibility rules
+
+Common multiples of a set
+
+Common factors of a set
+
+Logical filtering of numbers
+
+Range-based validation
+
+Mathematical reasoning (LCM & GCD intuition)
+
+🔑 Key Insight
+
+The valid integers must be:
+
+Multiples of all elements in the first array
+
+Factors of all elements in the second array
+
+Only numbers that satisfy both conditions simultaneously are counted.
+
+
+🛠️ Technologies Used
+
+Python 3
+
+Basic mathematics
+
+Data Structures & Algorithms fundamentals
 ##  Technologies Used
 - Python 3
 - Core Python (no external libraries)
