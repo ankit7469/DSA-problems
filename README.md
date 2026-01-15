@@ -16,7 +16,7 @@ The focus is on understanding logic, loops, conditions, and array operations.
 **Concepts used:**  
 Arrays, loops, conditional statements.
 
----
+----
 
 ### 2️⃣ Array Sum
 - Calculated the sum of all elements in an array.
