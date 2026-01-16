@@ -223,19 +223,67 @@ Multiples of all elements in the first array
 Factors of all elements in the second array
 
 Only numbers that satisfy both conditions simultaneously are counted.
+
 ------------------------------------------------------------------------------
+# 6. Problem solution
+-----------------------------------------------------------------------------
+
+ # Breaking the Records --
+
+This problem is about tracking how often a player breaks their performance records over a sequence of games.
+
+📌 Problem Description
+
+A list of scores is given, where each score represents the points scored by a player in consecutive games.
+
+The first score establishes both the initial highest and lowest records.
+
+As the season progresses, each new score is compared against the current records.
+
+The objective is to determine:
+
+How many times the highest score record is broken
+
+How many times the lowest score record is broken
+
+🧠 Core Concepts
+
+Array / list traversal
+
+Running maximum tracking
+
+Running minimum tracking
+
+Conditional comparisons
+
+Counter variables
+
+Single-pass iteration
+
+🔑 Key Insights
+
+The first score acts as the baseline for both records
+
+Highest and lowest records must be tracked independently
+
+A record is broken only when a score is strictly greater or strictly smaller
+
+Equal scores do not affect record counts
+
+🎯 Purpose
+
+- Strengthen array traversal skills
+- Improve logical comparison techniques
+- Understand state tracking in iterative problems
+- Practice interview-style problem solving
 
 🛠️ Technologies Used
 
 Python 3
-
 Basic mathematics
-
 Data Structures & Algorithms fundamentals
 
-##  Technologies Used
-- Python 3
-- Core Python (no external libraries)
+-----------------------------------------------------------------------------
 
 ---
 
