@@ -5,8 +5,9 @@ implemented in Python.
 The focus is on understanding logic, loops, conditions, and array operations.
 
 ---
-
-## 📌1. Problems Covered
+-------------------------------------------------------------
+## 1. Problems Solution
+-------------------------------------------------------------
 
 ### 1️⃣ Compare the Triplets
 - Compared two arrays element-wise.
@@ -43,9 +44,9 @@ Loops, accumulation, integers.
 **Concepts used:**  
 Counting, division, loops, conditional logic.
 
----
+-----------------------------------------------------------------
 2. Problem_solution
-----------------------------------------------------------
+----------------------------------------------------------------
  
 ## 1️⃣  Pyramid Pattern
 
@@ -100,7 +101,6 @@ Finds the tallest candle height in an array and counts how many times it appears
 Maximum value, counting frequency, array traversal.
 
 -----------------------------------------------------------------------
-
 ### 3.Probem_Solution
 -----------------------------------------------------------------------
 
