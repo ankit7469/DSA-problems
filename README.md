@@ -284,16 +284,47 @@ Basic mathematics
 Data Structures & Algorithms fundamentals
 
 -----------------------------------------------------------------------------
+# 7. Problem Solution 
+----------------------------------------------------------------------------
 
----
+Birthday Chocolate (Subarray Division)
 
-##  Purpose
+This problem focuses on identifying contiguous segments within an array that satisfy specific length and sum conditions.
 
-- Strengthen DSA basics
-- Improve logical thinking
-- Practice competitive programming
-- Maintain daily GitHub activity
----
+📌 Problem Description
+
+A chocolate bar is divided into squares, where each square contains an integer value.
+Lily wants to share a contiguous segment of the chocolate based on two conditions:
+
+- The length of the segment must be equal to Ron’s birth month.
+- The sum of the values in the segment must be equal to Ron’s birth day.
+- The task is to determine how many such valid segments exist in the chocolate bar.
+
+🧠 Core Concepts Used
+
+- Arrays / Lists
+- Contiguous subarrays
+- Fixed-length window traversal
+- Sum comparison logic
+- Loop-based iteration
+- Counting valid conditions
+
+🔑 Key Insights
+
+- Only consecutive elements can form a valid segment.
+- Each segment must have an exact fixed length.
+- Every possible segment of that length must be checked.
+- A segment is valid only if its sum exactly matches the required value.
+- The result is the count of all valid segments, not the segments themselves.
+
+🎯 Purpose
+
+- Practice subarray traversal techniques
+- Understand fixed-size window logic
+- Improve problem decomposition skills
+- Build confidence in array-based DSA problems
+
+-----------------------------------------------------------------------------
 
 ##  Learning Outcome
 - Improved problem-solving skills
