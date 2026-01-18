@@ -100,6 +100,13 @@ Finds the tallest candle height in an array and counts how many times it appears
 **Concepts Used:**  
 Maximum value, counting frequency, array traversal.
 
+##  Purpose
+
+- Strengthen DSA basics
+- Improve logical thinking
+- Practice competitive programming
+- Maintain daily GitHub activity
+
 -----------------------------------------------------------------------
 ### 3.Probem_Solution
 -----------------------------------------------------------------------
