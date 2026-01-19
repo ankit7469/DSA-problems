@@ -45,7 +45,7 @@ Loops, accumulation, integers.
 Counting, division, loops, conditional logic.
 
 ----------------------------------------------------------------
-2. Problem_solution
+## 2. Problem_solution
 ----------------------------------------------------------------
  
 ## 1️⃣  Pyramid Pattern
@@ -108,7 +108,7 @@ Maximum value, counting frequency, array traversal.
 - Maintain daily GitHub activity
 
 -----------------------------------------------------------------------
-### 3.Probem_Solution
+## 3.Probem_Solution
 -----------------------------------------------------------------------
 
 ## 1️⃣ Time Conversion
@@ -135,7 +135,7 @@ Main Topics:
 Arrays / Lists, Loop traversal, Coordinate line logic, Range validation, Separate counting logic
 
 -----------------------------------------------------------------------------------------------
- ###  4. Problem Solution
+ ##  4. Problem Solution
 -----------------------------------------------------------------------------------------------
    1. Kangaroo – Number Line Jump 
 
@@ -152,37 +152,28 @@ The task is to decide whether there exists a point in time when both kangaroos l
 Return:
 
 YES → if they can meet
-
 NO → if they never meet
 
 # Core Concepts Used
 
-Number line movement
-
-Relative speed comparison
-
-Difference between starting positions
-
-Mathematical divisibility logic
-
-Modulus (%) operator
-
-Conditional decision making
+- Number line movement
+- Relative speed comparison
+- Difference between starting positions
+- Mathematical divisibility logic
+- Modulus (%) operator
+- Conditional decision making
 
 Time-step synchronization (same number of jumps)
 
 # Key Insight
 
-Both kangaroos always make the same number of jumps
-
-A meeting is possible only if:
-
-The kangaroo starting behind is faster
-
-The initial distance between them can be closed exactly after some number of jumps
+- Both kangaroos always make the same number of jumps
+- A meeting is possible only if:
+- The kangaroo starting behind is faster
+- The initial distance between them can be closed exactly after some number of jumps
 
 ---------------------------------------------------------------------------------------
-# 5. Problem_solution 
+## 5. Problem_solution 
 ---------------------------------------------------------------------------------------
 
 🔢 Between Two Sets (HackerRank)
@@ -194,45 +185,32 @@ This problem focuses on finding integers that satisfy specific divisibility cond
 Two arrays of integers are given:
 
 A first array (A)
-
 A second array (B)
 
-An integer is considered between the two sets if it satisfies both conditions:
-
-Every element of the first array is a factor of the integer.
-
-The integer is a factor of every element of the second array.
-
-The task is to determine how many such integers exist.
+- An integer is considered between the two sets if it satisfies both conditions:
+- Every element of the first array is a factor of the integer.
+- The integer is a factor of every element of the second array.
+- The task is to determine how many such integers exist.
 
 🧠 Core Concepts Involved
 
-Factors and multiples
-
-Divisibility rules
-
-Common multiples of a set
-
-Common factors of a set
-
-Logical filtering of numbers
-
-Range-based validation
-
-Mathematical reasoning (LCM & GCD intuition)
+- Factors and multiples
+- Divisibility rules
+- Common multiples of a set
+- Common factors of a set
+- Logical filtering of numbers
+- Range-based validation
+- Mathematical reasoning (LCM & GCD intuition)
 
 🔑 Key Insight
 
-The valid integers must be:
-
-Multiples of all elements in the first array
-
-Factors of all elements in the second array
-
-Only numbers that satisfy both conditions simultaneously are counted.
+- The valid integers must be:
+- Multiples of all elements in the first array
+- Factors of all elements in the second array
+- Only numbers that satisfy both conditions simultaneously are counted.
 
 ------------------------------------------------------------------------------
-# 6. Problem solution
+## 6. Problem solution
 -----------------------------------------------------------------------------
 
  # Breaking the Records --
@@ -241,41 +219,28 @@ This problem is about tracking how often a player breaks their performance recor
 
 📌 Problem Description
 
-A list of scores is given, where each score represents the points scored by a player in consecutive games.
-
-The first score establishes both the initial highest and lowest records.
-
-As the season progresses, each new score is compared against the current records.
-
-The objective is to determine:
-
-How many times the highest score record is broken
-
-How many times the lowest score record is broken
+- A list of scores is given, where each score represents the points scored by a player in consecutive games.
+- The first score establishes both the initial highest and lowest records.
+- As the season progresses, each new score is compared against the current records.
+- The objective is to determine:
+- How many times the highest score record is broken
+- How many times the lowest score record is broken
 
 🧠 Core Concepts
 
-Array / list traversal
-
-Running maximum tracking
-
-Running minimum tracking
-
-Conditional comparisons
-
-Counter variables
-
-Single-pass iteration
+- Array / list traversal
+- Running maximum tracking
+- Running minimum tracking
+- Conditional comparisons
+- Counter variables
+- Single-pass iteration
 
 🔑 Key Insights
 
-The first score acts as the baseline for both records
-
-Highest and lowest records must be tracked independently
-
-A record is broken only when a score is strictly greater or strictly smaller
-
-Equal scores do not affect record counts
+- The first score acts as the baseline for both records
+- Highest and lowest records must be tracked independently
+- A record is broken only when a score is strictly greater or strictly smaller
+- Equal scores do not affect record counts
 
 🎯 Purpose
 
@@ -291,10 +256,10 @@ Basic mathematics
 Data Structures & Algorithms fundamentals
 
 -----------------------------------------------------------------------------
-# 7. Problem Solution 
+## 7. Problem Solution 
 ----------------------------------------------------------------------------
 
-Birthday Chocolate (Subarray Division)
+- Birthday Chocolate (Subarray Division)
 
 This problem focuses on identifying contiguous segments within an array that satisfy specific length and sum conditions.
 
@@ -331,6 +296,8 @@ Lily wants to share a contiguous segment of the chocolate based on two condition
 - Improve problem decomposition skills
 - Build confidence in array-based DSA problems
 
+-----------------------------------------------------------------------------
+## 8. Problem Solution
 -----------------------------------------------------------------------------
 
 ##  Learning Outcome
