@@ -137,7 +137,7 @@ Arrays / Lists, Loop traversal, Coordinate line logic, Range validation, Separat
 -----------------------------------------------------------------------------------------------
  ##  4. Problem Solution
 -----------------------------------------------------------------------------------------------
-   1. Kangaroo – Number Line Jump 
+   # Kangaroo – Number Line Jump 
 
 This problem focuses on determining whether two kangaroos, starting at different positions on a number line and jumping at fixed rates, can land on the same position after the same number of jumps.
 
@@ -213,7 +213,7 @@ A second array (B)
 ## 6. Problem solution
 -----------------------------------------------------------------------------
 
- # Breaking the Records --
+ # Breaking the Records 
 
 This problem is about tracking how often a player breaks their performance records over a sequence of games.
 
@@ -259,7 +259,7 @@ Data Structures & Algorithms fundamentals
 ## 7. Problem Solution 
 ----------------------------------------------------------------------------
 
-- Birthday Chocolate (Subarray Division)
+# Birthday Chocolate (Subarray Division)
 
 This problem focuses on identifying contiguous segments within an array that satisfy specific length and sum conditions.
 
