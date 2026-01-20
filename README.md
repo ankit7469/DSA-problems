@@ -134,6 +134,16 @@ Main Topics:
 
 Arrays / Lists, Loop traversal, Coordinate line logic, Range validation, Separate counting logic
 
+##  Learning Outcome
+- Improved problem-solving skills
+- Better understanding of arrays and loops
+- Hands-on practice with HackerRank-style problems
+- Clean and readable Python code
+
+##  Status
+✅ Completed basic array and logic problems  
+📈 Continuing DSA practice
+
 -----------------------------------------------------------------------------------------------
  ##  4. Problem Solution
 -----------------------------------------------------------------------------------------------
@@ -299,16 +309,41 @@ Lily wants to share a contiguous segment of the chocolate based on two condition
 -----------------------------------------------------------------------------
 ## 8. Problem Solution
 -----------------------------------------------------------------------------
+# Migratory Birds 
 
-##  Learning Outcome
-- Improved problem-solving skills
-- Better understanding of arrays and loops
-- Hands-on practice with HackerRank-style problems
-- Clean and readable Python code
+This problem focuses on identifying the most frequently sighted bird type from a given list, with a specific rule for handling ties.
 
----
+📌 Problem Description
 
-##  Status
-✅ Completed basic array and logic problems  
-📈 Continuing DSA practice
+- A list of integers is given, where each integer represents the type ID of a migratory bird sighted.
+- The task is to determine which bird type appears the most frequently in the list.
+- If multiple bird types have the same highest frequency, the bird with the smallest numerical ID must be selected.
+
+🧠 Core Concepts Used
+
+- Frequency counting
+- Arrays / Lists
+- Hash maps / Dictionaries
+- Comparison logic
+- Tie-breaking conditions
+- Single-pass data processing
+
+🔑 Key Insights
+
+- Each bird type must be counted independently.
+- The bird with the maximum occurrence is the primary candidate.
+
+In case of a tie:
+
+- The bird type with the lowest ID is chosen.
+- The order of sightings does not matter; only frequency matters.
+
+🎯 Purpose
+
+- Practice frequency-based problem solving
+- Learn how to handle tie-breaking rules
+- Improve logical comparison skills
+- Build confidence with array and counting problems
+
+
 
