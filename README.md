@@ -17,7 +17,7 @@ The focus is on understanding logic, loops, conditions, and array operations.
 **Concepts used:**  
 Arrays, loops, conditional statements.
 
-----
+---------------------------------------------------------------
 
 ### 2️⃣ Array Sum
 - Calculated the sum of all elements in an array.
@@ -26,7 +26,7 @@ Arrays, loops, conditional statements.
 **Concepts used:**  
 Loops, accumulation, integers.
 
----
+-----------------------------------------------------------------
 
 ### 3️⃣ Diagonal Difference (Matrix)
 - Calculated the primary and secondary diagonal sums of a square matrix.
@@ -35,7 +35,7 @@ Loops, accumulation, integers.
 **Concepts used:**  
 2D arrays (list of lists), indexing, absolute difference.
 
----
+-----------------------------------------------------------------
 
 ### 4️⃣ Plus Minus
 - Counted positive, negative, and zero values in an array.
