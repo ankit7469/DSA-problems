@@ -345,6 +345,45 @@ In case of a tie:
 - Learn how to handle tie-breaking rules
 - Improve logical comparison skills
 - Build confidence with array and counting problems
+  
+---------------------------------------------------------------------------------
+### 9. Problem Solution 
+---------------------------------------------------------------------------------
 
+# Divisible Sum Pairs (HackerRank)
 
+This problem focuses on counting valid pairs in an array whose sum satisfies a given divisibility condition.
+
+📌 Problem Description
+
+- An array of integers is given along with an integer k.
+- The task is to determine the number of pairs (i, j) such that:
+i < j
+- The sum of the elements at indices i and j is divisible by k
+- A pair is considered valid only if both conditions are satisfied.
+
+🧠 Core Concepts Used
+
+- Arrays / Lists
+- Nested iteration
+- Pair generation logic
+- Modulus (%) operator
+- Index-based comparison (i < j)
+- Counting valid conditions
+
+🔑 Key Insights
+
+- Each element must be paired only with elements that come after it to avoid duplicate pairs.
+- Divisibility is checked using the modulus operator.
+- Only pairs whose sum is exactly divisible by k are counted.
+- The order of elements in a pair does not matter; index order does.
+
+🎯 Purpose
+
+- Strengthen understanding of pair-based array problems
+- Practice conditional counting
+- Learn to apply mathematical constraints in loops
+- Prepare for beginner-level competitive programming questions
+
+------------------------------------------------------------------------------
 
