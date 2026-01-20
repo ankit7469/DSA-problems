@@ -57,7 +57,8 @@ odd-wise in each row.
 **Concepts Used:**  
 Nested loops, spacing logic, arithmetic patterns.
 
----
+----------------------------------------------------------------
+
  ## 2️⃣ Inverse Pattern
 
 **Description:**  
@@ -67,7 +68,7 @@ with each row.
 **Concepts Used:**  
 Loops, pattern logic.
 
----
+----------------------------------------------------------------
 
 
 ## 3️⃣ Binary Centered Pattern
@@ -79,7 +80,7 @@ The starting value of each row depends on the row number.
 **Concepts Used:**  
 Nested loops, modulo operation, pattern observation.
 
----
+-----------------------------------------------------------------
 
 ## 4️⃣ Mini-Max Sum
 
@@ -90,7 +91,7 @@ by summing exactly four of the five elements.
 **Concepts Used:**  
 Arrays, loops, total sum, min/max logic.
 
----
+------------------------------------------------------------------
 
 ## 5️⃣ Birthday Cake Candles
 
