@@ -386,4 +386,53 @@ i < j
 - Prepare for beginner-level competitive programming questions
 
 ------------------------------------------------------------------------------
+### 10. Problem Solution 
+------------------------------------------------------------------------------
+
+Day of the Programmer (HackerRank)
+
+This problem focuses on determining the exact date of the 256th day of the year, known as the Day of the Programmer, under different calendar systems.
+
+📌 Problem Description
+
+Given a year, the task is to identify the date of the 256th day of that year.
+The challenge arises because different calendar systems were used historically, and one specific year has a special adjustment.
+
+🧠 Core Concepts Used
+
+Calendar-based conditional logic
+
+Leap year rules
+
+Handling historical exceptions
+
+Date calculation reasoning
+
+Conditional branching (if / elif / else)
+
+🔑 Key Insights
+
+Julian Calendar applies to years before 1918
+
+Leap year if the year is divisible by 4
+
+Gregorian Calendar applies to years after 1918
+
+Leap year if divisible by 400, or divisible by 4 but not by 100
+
+Year 1918 is a special case due to a calendar transition
+
+Several days were skipped, shifting the Day of the Programmer
+
+The result is always a specific fixed date format based on these rules
+
+🎯 Purpose
+
+Practice conditional logic with real-world constraints
+
+Understand calendar transitions and edge cases
+
+Strengthen problem-solving skills involving historical data
+
+Prepare for logic-heavy competitive programming questions
 
