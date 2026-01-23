@@ -1,5 +1,5 @@
 # DSA & Problem Solving Practice (Python)
--------------------------------------------------------------
+--------------------------------------------------------------
 
 This repository contains Data Structures and Problem Solving questions
 implemented in Python.  
