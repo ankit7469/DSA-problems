@@ -426,3 +426,52 @@ The challenge arises because different calendar systems were used historically, 
 --------------------------------------------------------------------------
 ### 11. Problem Solution
 -------------------------------------------------------------------------
+
+ # Bill Division (Bon Appétit) 
+
+This problem focuses on fairly splitting a bill between two people when one item was not consumed by one of them.
+
+📌 Problem Description
+
+Two friends share a meal, and the bill consists of multiple items with individual costs.
+One person does not eat one specific item, yet the bill is split.
+
+The task is to determine whether the person was charged correctly.
+
+If the charged amount is correct, print "Bon Appetit"
+
+If the charged amount is incorrect, print the extra amount charged
+
+🧠 Core Concepts Used
+
+Array / list handling
+
+Index-based exclusion
+
+Summation of array elements
+
+Integer division
+
+Conditional comparison
+
+Basic arithmetic logic
+
+🔑 Key Insights
+
+The total bill includes all items, but one item must be excluded for fair sharing
+
+Only the remaining items should be split equally
+
+The actual share is compared with the charged amount
+
+The result depends on whether the charge matches the fair share
+
+🎯 Purpose
+
+Practice array manipulation and indexing
+
+Understand real-life problem modeling in code
+
+Strengthen logical comparison skills
+
+Prepare for beginner-level competitive programming problems
