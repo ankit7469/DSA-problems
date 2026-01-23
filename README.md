@@ -431,23 +431,22 @@ The challenge arises because different calendar systems were used historically, 
 
 This problem focuses on fairly splitting a bill between two people when one item was not consumed by one of them.
 
-📌 Problem Description
+📌 Problem Description --
 
-Two friends share a meal, and the bill consists of multiple items with individual costs.
-One person does not eat one specific item, yet the bill is split.
-
-The task is to determine whether the person was charged correctly.
-If the charged amount is correct, print "Bon Appetit"
-If the charged amount is incorrect, print the extra amount charged
+- Two friends share a meal, and the bill consists of multiple items with individual costs.
+- One person does not eat one specific item, yet the bill is split.
+- The task is to determine whether the person was charged correctly.
+- If the charged amount is correct, print "Bon Appetit"
+- If the charged amount is incorrect, print the extra amount charged
 
 🧠 Core Concepts Used
 
-Array / list handling
-Index-based exclusion
-Summation of array elements
-Integer division
-Conditional comparison
-Basic arithmetic logic
+- Array / list handling
+- Index-based exclusion
+- Summation of array elements
+- Integer division
+- Conditional comparison
+- Basic arithmetic logic
 
 🔑 Key Insights
 
