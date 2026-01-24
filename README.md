@@ -461,3 +461,55 @@ This problem focuses on fairly splitting a bill between two people when one item
 - Understand real-life problem modeling in code
 - Strengthen logical comparison skills
 - Prepare for beginner-level competitive programming problems
+
+----------------------------------------------------------------------
+### 12. Problem Solution
+----------------------------------------------------------------------
+# Sale by Match (Sock Merchant) – 
+
+This problem focuses on counting how many matching pairs of socks can be formed from a given collection.
+
+📌 Problem Description
+
+A list of integers is given where each integer represents the color of a sock.
+Each sock has exactly one matching pair if another sock of the same color exists.
+
+The task is to determine how many pairs of socks can be formed.
+
+🧠 Core Concepts Used
+
+Arrays / Lists
+
+Frequency counting
+
+Hash maps / Dictionaries
+
+Integer division
+
+Aggregation of results
+
+Loop-based traversal
+
+🔑 Key Insights
+
+Socks can only form a pair if they have the same color
+
+One pair requires exactly two socks
+
+Extra or unpaired socks are ignored
+
+The number of pairs for a color is calculated using:
+
+frequency // 2
+
+The final answer is the sum of pairs across all colors
+
+🎯 Purpose
+
+Practice frequency-based problem solving
+
+Understand grouping and pairing logic
+
+Improve counting techniques in arrays
+
+Strengthen fundamentals for competitive programming
