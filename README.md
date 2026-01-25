@@ -502,3 +502,5 @@ The task is to determine how many pairs of socks can be formed.
 - Strengthen fundamentals for competitive programming
 
 ---------------------------------------------------------------------------------
+### 13. Problem Solution
+----------------------------------------------------------------------------------
