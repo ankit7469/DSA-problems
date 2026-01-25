@@ -535,4 +535,37 @@ The task is to determine the minimum number of page turns required to reach the 
 - Learn to replace loops with mathematical reasoning
 - Practice optimization using simple arithmetic
 - Improve understanding of bidirectional traversal problems
-- --------------------------------------------------------------------
+
+--------------------------------------------------------------------
+### 14. Problem Solution
+-------------------------------------------------------------------
+
+# Counting Valleys
+
+📌 Problem Description
+
+A hiker takes a sequence of steps represented by characters indicating upward and downward movement relative to sea level.
+The task is to determine how many valleys the hiker walks through during the hike.
+
+🧠 Core Concepts Used
+
+- String traversal
+- State tracking
+- Incremental counters
+- Conditional logic
+- Event-based counting
+
+🔑 Key Insights
+
+- Sea level is treated as a reference point.
+- A valley occurs when the hiker goes below sea level and then returns to sea level.
+- The hiker’s current level must be tracked throughout the path.
+- Valleys are counted only at the moment of returning to sea level from below.
+
+🎯 Purpose
+
+- Understand state-based problem solving
+- Learn to detect patterns during traversal
+- Practice logic that depends on transitions, not final values
+
+-----------------------------------------------------------------------------------------------
