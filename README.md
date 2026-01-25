@@ -515,23 +515,24 @@ The task is to determine the minimum number of page turns required to reach the 
 
 🧠 Core Concepts Used
 
-Integer division
-Mathematical simplification
-Comparison logic
-Minimum value selection
-Page pairing concept
+- Integer division
+- Mathematical simplification
+- Comparison logic
+- Minimum value selection
+- Page pairing concept
 
 🔑 Key Insights
 
-Each page turn moves two pages at once.
-The number of turns can be calculated independently from:
-the front of the book
-the back of the book
-The final answer is the minimum of these two values.
-This problem is best solved using math, not iteration.
+- Each page turn moves two pages at once.
+- The number of turns can be calculated independently from:
+ the front of the book
+ the back of the book
+- The final answer is the minimum of these two values.
+- This problem is best solved using math, not iteration.
 
 🎯 Purpose
 
-Learn to replace loops with mathematical reasoning
-Practice optimization using simple arithmetic
-Improve understanding of bidirectional traversal problems
+- Learn to replace loops with mathematical reasoning
+- Practice optimization using simple arithmetic
+- Improve understanding of bidirectional traversal problems
+- --------------------------------------------------------------------
