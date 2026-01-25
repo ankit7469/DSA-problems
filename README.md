@@ -1,4 +1,4 @@
-# DSA & Problem Solving Practice (Python)
+# DSA & Problem Solving Practice (Python) - HACKERRANK
 ----------------------------------------------------------------
 
 This repository contains Data Structures and Problem Solving questions
