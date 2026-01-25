@@ -478,38 +478,27 @@ The task is to determine how many pairs of socks can be formed.
 
 🧠 Core Concepts Used
 
-Arrays / Lists
-
-Frequency counting
-
-Hash maps / Dictionaries
-
-Integer division
-
-Aggregation of results
-
-Loop-based traversal
+- Arrays / Lists
+- Frequency counting
+- Hash maps / Dictionaries
+- Integer division
+- Aggregation of results
+- Loop-based traversal
 
 🔑 Key Insights
 
-Socks can only form a pair if they have the same color
-
-One pair requires exactly two socks
-
-Extra or unpaired socks are ignored
-
-The number of pairs for a color is calculated using:
-
-frequency // 2
-
-The final answer is the sum of pairs across all colors
+- Socks can only form a pair if they have the same color
+- One pair requires exactly two socks
+- Extra or unpaired socks are ignored
+- The number of pairs for a color is calculated using:
+- frequency // 2
+- The final answer is the sum of pairs across all colors
 
 🎯 Purpose
 
-Practice frequency-based problem solving
+- Practice frequency-based problem solving
+- Understand grouping and pairing logic
+- Improve counting techniques in arrays
+- Strengthen fundamentals for competitive programming
 
-Understand grouping and pairing logic
-
-Improve counting techniques in arrays
-
-Strengthen fundamentals for competitive programming
+---------------------------------------------------------------------------------
