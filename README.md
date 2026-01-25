@@ -489,7 +489,7 @@ The task is to determine how many pairs of socks can be formed.
 
 - Socks can only form a pair if they have the same color
 - One pair requires exactly two socks
-- Extra or unpaired socks are ignored
+- Extra or unpaired socks are ignored 
 - The number of pairs for a color is calculated using:
 - frequency // 2
 - The final answer is the sum of pairs across all colors
@@ -504,3 +504,34 @@ The task is to determine how many pairs of socks can be formed.
 ---------------------------------------------------------------------------------
 ### 13. Problem Solution
 ----------------------------------------------------------------------------------
+
+# Drawing Book - 
+
+📌 Problem Description
+
+A book has a fixed number of pages. Starting from either the front or the back of the book, pages can be turned to reach a specific target page. Each page turn reveals two pages at a time.
+
+The task is to determine the minimum number of page turns required to reach the target page.
+
+🧠 Core Concepts Used
+
+Integer division
+Mathematical simplification
+Comparison logic
+Minimum value selection
+Page pairing concept
+
+🔑 Key Insights
+
+Each page turn moves two pages at once.
+The number of turns can be calculated independently from:
+the front of the book
+the back of the book
+The final answer is the minimum of these two values.
+This problem is best solved using math, not iteration.
+
+🎯 Purpose
+
+Learn to replace loops with mathematical reasoning
+Practice optimization using simple arithmetic
+Improve understanding of bidirectional traversal problems
