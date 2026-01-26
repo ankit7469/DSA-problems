@@ -575,45 +575,33 @@ The task is to determine how many valleys the hiker walks through during the hik
 # Electronic Shop (Extended Version)
 📌 Problem Description
 
-Multiple budgets are given along with two lists representing the prices of keyboards and USB drives.
-For each budget, a customer can buy at most one keyboard and one USB drive.
+- Multiple budgets are given along with two lists representing the prices of keyboards and USB drives.
+- For each budget, a customer can buy at most one keyboard and one USB drive.
 
-The task is to determine the maximum possible amount that can be spent without exceeding any of the given budgets.
-If no valid combination is possible for all budgets, the result should indicate failure.
+- The task is to determine the maximum possible amount that can be spent without exceeding any of the given budgets.
+- If no valid combination is possible for all budgets, the result should indicate failure.
 
 🧠 Core Concepts Used
 
-Arrays / Lists
-
-Nested iteration
-
-Conditional comparison
-
-Maximum value tracking
-
-Accumulator (helper variables)
-
-Constraint-based selection
+- Arrays / Lists
+- Nested iteration
+- Conditional comparison
+- Maximum value tracking
+- Accumulator (helper variables)
+- Constraint-based selection
 
 🔑 Key Insights
 
-Each budget is evaluated independently against all possible keyboard–USB combinations.
-
-Only combinations whose total cost is less than or equal to the budget are valid.
-
-For each budget, the best (maximum) valid sum is determined.
-
-Among all budgets, the overall maximum valid sum is selected as the final result.
-
-If no valid combination exists, a default value (such as -1) is used.
+- Each budget is evaluated independently against all possible keyboard–USB combinations.
+- Only combinations whose total cost is less than or equal to the budget are valid.
+- For each budget, the best (maximum) valid sum is determined.
+- Among all budgets, the overall maximum valid sum is selected as the final result.
+- If no valid combination exists, a default value (such as -1) is used.
 
 🎯 Purpose
 
-Practice working with multiple arrays simultaneously
-
-Learn how to track maximum values under constraints
-
-Understand accumulator patterns (current max, overall max)
-
-Strengthen logical reasoning for optimization problems
+- Practice working with multiple arrays simultaneously
+- Learn how to track maximum values under constraints
+- Understand accumulator patterns (current max, overall max)
+- Strengthen logical reasoning for optimization problems
 -----------------------------------------------------------------------------------
