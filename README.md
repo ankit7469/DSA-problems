@@ -569,3 +569,5 @@ The task is to determine how many valleys the hiker walks through during the hik
 - Practice logic that depends on transitions, not final values
 
 -----------------------------------------------------------------------------------------------
+### 15. Problem Solution
+----------------------------------------------------------------------------------------------
