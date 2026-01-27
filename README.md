@@ -572,7 +572,7 @@ The task is to determine how many valleys the hiker walks through during the hik
 ### 15. Problem Solution
 ----------------------------------------------------------------------------------------------
 
-# Electronic Shop (Extended Version)
+# Electronic Shop 
 📌 Problem Description
 
 - Multiple budgets are given along with two lists representing the prices of keyboards and USB drives.
@@ -608,3 +608,4 @@ The task is to determine how many valleys the hiker walks through during the hik
 -----------------------------------------------------------------------------------
 ### 16. Problem Solution
 -----------------------------------------------------------------------------------
+# Cats and a Mouse --
