@@ -604,4 +604,7 @@ The task is to determine how many valleys the hiker walks through during the hik
 - Learn how to track maximum values under constraints
 - Understand accumulator patterns (current max, overall max)
 - Strengthen logical reasoning for optimization problems
+
+-----------------------------------------------------------------------------------
+### 16. Problem Solution
 -----------------------------------------------------------------------------------
