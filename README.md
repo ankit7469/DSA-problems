@@ -646,9 +646,12 @@ The task is to determine how many valleys the hiker walks through during the hik
 - Each subsequent line represents one independent scenario with positions of Cat A, Cat B, and Mouse.
 - Outputs are printed line by line, one for each test case.
 
+
 🎯 Purpose
 
 - Practice distance-based comparisons
 - Learn how to interpret structured input correctly
 - Strengthen conditional logic skills
 - Understand how problem statements map to real input/output behavior
+
+--------------------------------------------------------------------------------------------
