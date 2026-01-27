@@ -609,3 +609,46 @@ The task is to determine how many valleys the hiker walks through during the hik
 ### 16. Problem Solution
 -----------------------------------------------------------------------------------
 # Cats and a Mouse --
+
+📌 Problem Description
+
+- Two cats and a mouse are positioned on a number line.
+- Each cat moves at the same speed and tries to reach the mouse.
+- For every given scenario, the task is to determine:
+- which cat reaches the mouse first, or
+- whether the mouse escapes if both cats reach at the same time.
+
+🧠 Core Concepts Used
+
+- Absolute difference (distance calculation)
+- Comparison logic
+- Conditional decision making
+- Understanding input formats
+- Multiple test case handling
+
+🔑 Key Insights
+
+- Distance between two positions is calculated using absolute difference.
+- The cat with the smaller distance to the mouse reaches first.
+- If both cats are at the same distance from the mouse, the mouse escapes.
+- Each test case produces exactly one output.
+- When multiple test cases are given, each case is evaluated independently.
+
+🎯 Decision Rules
+
+- Cat A closer → CAT A
+- Cat B closer → CAT B
+- Equal distance → MOUSE C
+
+🧠 Important Understanding
+
+- If the first input line contains a single number, it represents the number of test cases.
+- Each subsequent line represents one independent scenario with positions of Cat A, Cat B, and Mouse.
+- Outputs are printed line by line, one for each test case.
+
+🎯 Purpose
+
+- Practice distance-based comparisons
+- Learn how to interpret structured input correctly
+- Strengthen conditional logic skills
+- Understand how problem statements map to real input/output behavior
