@@ -657,3 +657,53 @@ The task is to determine how many valleys the hiker walks through during the hik
 --------------------------------------------------------------------------------------------
 ### 17. Problem Solution
 --------------------------------------------------------------------------------------------
+
+# Forming a Magic Square
+
+📌 Problem Description
+
+A magic square is a 3 × 3 matrix containing distinct integers from 1 to 9 such that the sum of each row, each column, and both diagonals is equal. This common sum is known as the magic constant.
+
+Given a 3 × 3 matrix with values in the range 1 to 9, we can change any element to another value between 1 and 9.
+The cost of changing a value is defined as the absolute difference between the original and the new value.
+
+The objective is to find the minimum total cost required to convert the given matrix into a valid magic square.
+
+🔑 Magic Constant
+
+• For a 3 × 3 magic square, the magic constant is always 15
+• Every row sums to 15
+• Every column sums to 15
+• Both diagonals also sum to 15
+
+🧠 Core Concepts
+• Limited Number of Valid Magic Squares
+
+• A 3 × 3 magic square using numbers 1 to 9 has only 8 valid configurations
+• These configurations are obtained through rotation and reflection
+• No other valid arrangement exists outside these 8 forms
+
+🔑 Cost Calculation
+
+• The cost is computed as the sum of absolute differences
+• Each cell of the input matrix is compared with the corresponding cell of a magic square
+• Only the changed positions contribute to the total cost
+
+ 🔑 Optimization Strategy
+
+• Compare the input matrix with each of the 8 valid magic squares
+• Calculate the conversion cost for every comparison
+• The minimum cost among them is the final answer
+
+🎯 Why This Approach Works
+
+• The matrix size is fixed (3 × 3)
+• The number of target magic squares is constant (8)
+• This allows a direct comparison without performance issues
+
+📝 Key Takeaway
+
+• The problem is solved by checking all possible valid magic squares and selecting the one with the minimum transformation cost
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
