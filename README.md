@@ -185,9 +185,9 @@ Time-step synchronization (same number of jumps)
 - The kangaroo starting behind is faster
 - The initial distance between them can be closed exactly after some number of jumps
 
----------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 ## 5. Problem_solution 
----------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 
 🔢 Between Two Sets (HackerRank)
 
