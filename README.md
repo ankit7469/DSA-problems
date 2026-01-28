@@ -6,7 +6,7 @@ implemented in Python.
 The focus is on understanding logic, loops, conditions, and array operations.
 
 -------------------------------------------------------------
-## 1. Problems Solution
+## 1. Problems Solution ( 4 Problems) 
 -------------------------------------------------------------
 
 ### 1️⃣ Compare the Triplets
@@ -45,7 +45,7 @@ Loops, accumulation, integers.
 Counting, division, loops, conditional logic.
 
 ----------------------------------------------------------------
-## 2. Problem_solution
+## 2. Problem_solution ( 5 Problems) 
 ----------------------------------------------------------------
  
 ## 1️⃣  Pyramid Pattern
@@ -109,7 +109,7 @@ Maximum value, counting frequency, array traversal.
 - Maintain daily GitHub activity
 
 ----------------------------------------------------------------------
-## 3.Probem_Solution
+## 3.Probem_Solution ( 3 problems)
 ----------------------------------------------------------------------
 
 ## 1️⃣ Time Conversion
@@ -120,12 +120,14 @@ Main Topics:
 
 String manipulation, Conditional statements, Slicing techniques ,Edge case handling (12 AM / 12 PM)
 
+-----------------------------------------------------------------------
 ## 2️⃣ Grading Students
 
 Concept: Apply rounding rules to student grades based on given conditions.
 
 Main Topics: 
 Integer division, Mathematical rounding logic, Conditional checks ,Looping over multiple inputs
+----------------------------------------------------------------------------
 
 ## 3️⃣ Apple and Orange
 
