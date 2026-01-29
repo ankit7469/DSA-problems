@@ -710,3 +710,66 @@ The objective is to find the minimum total cost required to convert the given ma
 -------------------------------------------------------------------------------------------------------------------------------------
 # 18. Problem Solution 
 -------------------------------------------------------------------------------------------------------------------------------------
+
+Picking Numbers
+📌 Problem Description
+
+The Picking Numbers problem focuses on finding the maximum length subset from a given list of integers such that the absolute difference between any two elements in the subset is at most 1.
+
+The subset does not need to be contiguous, but all selected elements must satisfy the condition together.
+
+🔑 Core Rule
+
+• In a valid subset,
+maximum value − minimum value ≤ 1
+
+• This means a subset can contain:
+– only one unique number
+– or two consecutive numbers (like x and x+1)
+
+• A subset containing three or more different values is invalid
+
+🧠 Key Concepts
+
+• Subset vs Adjacent Elements -
+
+• The problem is about forming a subset, not comparing adjacent elements
+• Elements can be chosen from anywhere in the array
+• Order does not matter for the subset
+
+🔑 Sorting Insight
+
+• Sorting the array groups identical and close values together
+• This makes it easier to evaluate which values can form a valid subset
+• After sorting, valid subsets naturally appear as ranges
+
+ 🔑 Sliding Window Idea
+
+• A window is defined using two pointers: start and end
+• The window represents the current subset under consideration
+• The window is adjusted to ensure the condition
+(max − min ≤ 1) is always satisfied
+
+🔑 Window Size (Count)
+
+• The size of the current subset is calculated using:
+end − start + 1
+• This represents the number of elements in the inclusive range
+• The maximum such size across all valid windows is the answer
+
+🔑 Tracking the Maximum
+
+• A variable is used to store the largest valid subset size found so far
+• Each valid window is compared against this value
+• The final result is the maximum subset size
+
+🎯 Why This Approach Works
+
+• The condition depends only on the minimum and maximum of the subset
+• Sorting and window adjustment ensure the condition is never violated
+• The method efficiently explores all valid subsets
+
+📝 Key Takeaway
+
+• Picking Numbers is about finding the largest group of numbers where all values differ by at most 1
+• The problem is solved by carefully controlling which elements are included in the subset and tracking its size
