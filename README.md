@@ -708,4 +708,5 @@ The objective is to find the minimum total cost required to convert the given ma
 • The problem is solved by checking all possible valid magic squares and selecting the one with the minimum transformation cost
 
 -------------------------------------------------------------------------------------------------------------------------------------
-
+# 18. Problem Solution 
+-------------------------------------------------------------------------------------------------------------------------------------
