@@ -773,4 +773,35 @@ end − start + 1
 
 • Picking Numbers is about finding the largest group of numbers where all values differ by at most 1
 • The problem is solved by carefully controlling which elements are included in the subset and tracking its size
---------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------
+### 19. Problem Solution
+----------------------------------------------------------
+
+# Climbing Leaderboard --
+
+🎯 Purpose
+
+To find the player’s rank after each game using a leaderboard that follows dense ranking.
+
+🔑 Key Insight
+
+In dense ranking, duplicate scores do not create new ranks.
+Therefore, ranking depends only on unique leaderboard scores.
+Since leaderboard scores are descending and player scores are ascending, ranks can be updated efficiently without rechecking everything.
+
+🧠 Concept
+
+The problem is based on comparing the player’s score with the existing unique scores on the leaderboard.
+As the player’s score increases over time, their rank can only improve or stay the same, never worsen.
+This allows rank calculation by moving step-by-step through the leaderboard instead of starting over each time.
+
+🧩 Core Concepts
+
+• Dense Ranking: Same scores share the same rank
+• Unique Scores: Duplicate leaderboard scores are ignored
+• Score Comparison: Rank is decided by how many unique scores are higher
+• Monotonic Movement: Player scores increase, ranks move upward
+• Efficiency: Avoids repeated full scans of the leaderboard
+
+-------------------------------------------------------------------------------------------------
