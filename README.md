@@ -1,5 +1,5 @@
 # DSA & Problem Solving Practice (Python) - HACKERRANK ( Total 29 Problems )
--------------------------------------------------------------
+---------------------------------------------------------------------------
 
 This repository contains Data Structures and Problem Solving questions
 implemented in Python.  
@@ -805,3 +805,32 @@ This allows rank calculation by moving step-by-step through the leaderboard inst
 • Efficiency: Avoids repeated full scans of the leaderboard
 
 -------------------------------------------------------------------------------------------------
+### 20. Problem Solution
+-------------------------------------------------------------------------------------------------
+# The Hurdle Race --
+
+🎯 Purpose
+
+To determine the minimum number of magic potion doses required so that a character can jump over all hurdles in a race.
+
+🔑 Key Insight
+
+The character only needs to be able to jump as high as the tallest hurdle.
+If the natural jump height is already sufficient, no potion is needed.
+
+🧠 Concept
+
+Each potion increases the character’s jump height by one unit.
+Therefore, the number of required doses depends on the difference between the tallest hurdle and the character’s natural jump height.
+Only the maximum hurdle height matters; smaller hurdles do not affect the decision.
+
+🧩 Core Concepts
+
+• Maximum Value: Focus on the tallest hurdle
+• Comparison Logic: Compare natural jump height with maximum hurdle height
+• Difference Calculation: Required power is the height difference
+• Non-negative Result: Potion count is never less than zero
+• Efficiency: Problem reduces to a single maximum check
+
+## Author -
+Ankit kashyap
