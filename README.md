@@ -3,7 +3,7 @@
 
 This repository contains Data Structures and Problem Solving questions
 implemented in Python.  
-The focus is on understanding logic, loops, conditions, and array operations.
+The focus is on understanding logic, loops, conditions and array operations.
 
 -------------------------------------------------------------
 ## 1. Problems Solution ( 4 Problems) 
